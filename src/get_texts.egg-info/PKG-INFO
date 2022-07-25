@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: get-texts
+Version: 0.0.1
+Summary: Extract text messages from iOS backups
+Home-page: https://github.com/redcitylights/get_texts
+Author: Thomas Wight
+Author-email: peptocider@icloud.com
+Project-URL: Bug Tracker, https://github.com/redcitylights/get_texts/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Environment :: Console
+Classifier: Natural Language :: English
+Classifier: Topic :: Utilities
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Get Texts  
+Extract text messages from iOS backups  

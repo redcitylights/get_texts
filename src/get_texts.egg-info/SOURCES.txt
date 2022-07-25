@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/get_texts/__init__.py
+src/get_texts/get_texts.py
+src/get_texts.egg-info/PKG-INFO
+src/get_texts.egg-info/SOURCES.txt
+src/get_texts.egg-info/dependency_links.txt
+src/get_texts.egg-info/entry_points.txt
+src/get_texts.egg-info/requires.txt
+src/get_texts.egg-info/top_level.txt

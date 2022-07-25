@@ -1,0 +1,2 @@
+[console_scripts]
+get_texts = get_texts.get_texts:get_texts
